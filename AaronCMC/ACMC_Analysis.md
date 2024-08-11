@@ -1,4 +1,4 @@
-## SORTING
+## Sorting and Top & Bottom Lines
 **Depression(%)**  
 * Top 5: Lesotho, Morocco, Uganda, Finland, United States  
 * Bottom 5: Albania, Colombia, Peru, Poland, Myanmar  
@@ -21,6 +21,16 @@
 * Top 5: New Zealand, Australia, Brazil, United Kingdom, Paraguay  
 * Bottom 5: China, Papua New Guinea, Vanuatu, Solomon Islands, Fiji 
 
+## %GDP Health Exp vs Disorder Rates  
+* Eating Disorder:  
+    * r^2 = 0.31399644901081714  
+    * y = 0.04x + 0.02  
+* Bipolar Disorder:
+    * r^2 = 0.21612929875854656  
+    * y = 0.03x + 0.55  
+* Anxiety Disorder:  
+    * r^2 = 0.20522750017817143  
+    * y = 0.21x + 2.65  
 
 
 
