@@ -21,7 +21,7 @@ Pop_density -> https://data.worldbank.org/indicator/EN.POP.DNST?view=chart
 
 
 # Data Sources  
-https://www.who.int/data/gho/indicator-metadata-registry  
+https://www.who.int/data/gho/indicator-metadata-registry         https://www.who.int/data/gho/data/indicators
 https://data.worldbank.org/indicator?tab=all  
 https://www.kaggle.com/datasets  
 http://www.gapminder.org/data/  
