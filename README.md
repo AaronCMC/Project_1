@@ -10,3 +10,18 @@ Pop  -> https://data.worldbank.org/indicator/SP.POP.TOTL
 Urban_Pop -> https://data.worldbank.org/indicator/SP.URB.TOTL  
 HealthExpGDP% -> https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS  
 Pop_density -> https://data.worldbank.org/indicator/EN.POP.DNST?view=chart  
+
+
+
+
+
+
+
+
+
+
+# Data Sources  
+https://www.who.int/data/gho/indicator-metadata-registry  
+https://data.worldbank.org/indicator?tab=all  
+https://www.kaggle.com/datasets  
+http://www.gapminder.org/data/  

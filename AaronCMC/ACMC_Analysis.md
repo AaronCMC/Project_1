@@ -1,3 +1,43 @@
+## SORTING
+**Depression(%)**  
+* Top 5: Lesotho, Morocco, Uganda, Finland, United States  
+* Bottom 5: Albania, Colombia, Peru, Poland, Myanmar  
+**Anxiety(%)**  
+* Top 5: New Zealand, Norway, United States, France, Australia  
+* Bottom 5: Colombia, Tajikistan, Mongolia, Uzbekistan, Turkmenistan  
+**Drugs(%)**  
+* Top 5: United States, United Arab Emirates, Afghanistan, Libya, Canada  
+* Bottom 5: Burkina Faso, Bosnia and Herzegovina, Mali, Guinea, Chad  
+**Alcohol(%)**  
+* Top 5: Belarus, Estonia, Ukraine, Lithuania, Latvia  
+* Bottom 5: Italy, Israel, Japan, Morocco, Malaysia  
+**Eating(%)**  
+* Top 5: Australia, Luxembourg, Spain, Austria, New Zealand  
+* Bottom 5: Liberia, Central African Republic, Solomon Islands, Niger, Malawi  
+**Schizophrenia(%)**  
+* Top 5: Netherlands, Australia, New Zealand, United Stated, China  
+* Bottom 5: Central African Republic, Malawi, Mozambique, Zimbabwe, Uganda  
+**Bipolar(%)**  
+* Top 5: New Zealand, Australia, Brazil, United Kingdom, Paraguay  
+* Bottom 5: China, Papua New Guinea, Vanuatu, Solomon Islands, Fiji 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## AI Responses
 Higher mental disorder rates in a country can correlate with several factors, including:
 
 1. **Socioeconomic Status**: Poverty, unemployment, and income inequality can increase stress and reduce access to mental health care.
