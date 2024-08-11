@@ -34,6 +34,12 @@
 
 
 
+* Depression
+    * OpenWeatherAPI (Avg weather stats like sun exposure -> impact on Depression)?????????  
+* Anxiety
+    * GDP per capita vs Anxiety -> r^2 = 0.4
+    * GDP Health Exp vs Anxiety -> r^2 = 0.2
+    * Life Expectancy vs Anxiety -> r^2 = 0.3
 
 
 
