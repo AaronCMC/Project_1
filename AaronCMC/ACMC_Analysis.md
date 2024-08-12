@@ -25,7 +25,7 @@
 * Eating Disorder:  
     * r^2 = 0.31399644901081714  
     * y = 0.04x + 0.02  
-* Bipolar Disorder:
+* Bipolar Disorder:  
     * r^2 = 0.21612929875854656  
     * y = 0.03x + 0.55  
 * Anxiety Disorder:  
@@ -38,16 +38,42 @@
     * OpenWeatherAPI (Avg weather stats like sun exposure -> impact on Depression)?????????  
     * Depression Gender Prevalence - F: 59.7 vs M: 40.3
 * Anxiety
-    * GDP per capita vs Anxiety -> r^2 = 0.4
+    * GDP per capita vs Anxiety -> r^2 = 0.4 -> With more money comes more problems?
     * GDP Health Exp vs Anxiety -> r^2 = 0.2
     * Life Expectancy vs Anxiety -> r^2 = 0.3
 
 
+An off-premise legal drinking age limit of 18 seems to perform the worst in terms of alcohol disorder rate. Note, the top 5 countires in alcohol disorders had legal drinking ages of 18 during 2010-2017, with Lithuania lifting it to 20 in 2018, and Latvia proposing an increase to 20.
 
 
 
 
-
+# Questions:
+1. **Drugs** 
+    * Given our line graph representing top 5 countries with Drug use disorder rates, why has the US increased in such fashion in contrast to the rest? Are variables that correlate with increased Drug disorder rates that could explain USA's ranking and deterioration in terms of mental health?
+        * Top 5 Line Graph
+        * BoxPlot or Bar Chart for GovB vs Drugs
+    * Search US Drug use articles
+        * NYT API
+2. **Alcohol**
+    * Top 5 countries are all within Eastern Europe, what characteristics do they exhibit that would explain the concentration of high alcohol use disorder rates in this regino of world?
+        * HVPlot of Top 10 and Bottom 10 via GeoApify API (marker intensity by disorder rate)
+        * *TBD Visualisation??*
+    * Does legal drinking age limits have impact on alcohol use disorder rates? All top 5 countries had legal drinking age limits of 18 during 2010-2017 period
+        * Bar chart comparison of Wine, Beer, and Spirit categories by Age limit vs. Alcohol disorder rate
+3. **Anxiety**
+    * The Top and Bottom 5 are grossly disparate in terms of economic status. Is anxiety related to economic environment?
+        * Linear Regression of GDP per Capita vs Anxiety disorder. -> more money more problems? Mongolia?
+        * Linear Regression of Life Expectancy vs Anxiety disorder. -> increase life expectancy at birth, inreased anxiety disorder rates? Mongolia?
+        * *TBD Visualisation??*
+4. **Depression**
+    * Gender Prevalence in Females. Why so?
+        * Pie Chart
+        * TBD Visualisation!
+5. **Eating**
+    * Why is thare a moderate positive correlation between Eating Disorders rates and Percentage GDP Expenditure on healthcare? could it be with increased facilities or medical personnel comes increased awareness and likelihood of diagnosis?
+        * Linear regression HealthExp vs Eating
+        * TBD Visualisation!
 
 
 
