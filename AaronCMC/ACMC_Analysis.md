@@ -21,6 +21,14 @@
 * Top 5: New Zealand, Australia, Brazil, United Kingdom, Paraguay  
 * Bottom 5: China, Papua New Guinea, Vanuatu, Solomon Islands, Fiji 
 
+
+General Guidelines for R-squared Values
+	1.	Social Sciences and Health Research:
+	▪	An R² value of 0.10 to 0.30 is often considered low but can still be meaningful, indicating that while there is some relationship, a lot of variance in mental disorder rates is influenced by other factors not included in the model.
+	▪	An R² value of 0.30 to 0.50 indicates a moderate relationship and is generally considered acceptable for social science research, suggesting that GDP per capita does explain a notable portion of the variance in mental disorder rates.
+	▪	An R² value of 0.50 and above indicates a strong relationship, suggesting that GDP per capita is a significant predictor of mental disorder rates.
+
+
 ## %GDP Health Exp vs Disorder Rates  
 * Eating Disorder:  
     * r^2 = 0.31399644901081714  
@@ -50,6 +58,7 @@ An off-premise legal drinking age limit of 18 seems to perform the worst in term
 
 # Questions:
 1. **Drugs** 
+    * Drug Use Disorders are on the rise from 2010-2017, within our 140 country sample range.
     * Given our line graph representing top 5 countries with Drug use disorder rates, why has the US increased in such fashion in contrast to the rest? Are variables that correlate with increased Drug disorder rates that could explain USA's ranking and deterioration in terms of mental health?
         * Top 5 Line Graph
         * BoxPlot or Bar Chart for GovB vs Drugs
@@ -57,7 +66,7 @@ An off-premise legal drinking age limit of 18 seems to perform the worst in term
         * NYT API
 2. **Alcohol**
     * Top 5 countries are all within Eastern Europe, what characteristics do they exhibit that would explain the concentration of high alcohol use disorder rates in this regino of world?
-        * HVPlot of Top 10 and Bottom 10 via GeoApify API (marker intensity by disorder rate)
+        * HVPlot of Top 10 and Bottom 10 via GeoApify API (marker intensity by disorder rate)... or just chart for extremes
         * *TBD Visualisation??*
     * Does legal drinking age limits have impact on alcohol use disorder rates? All top 5 countries had legal drinking age limits of 18 during 2010-2017 period
         * Bar chart comparison of Wine, Beer, and Spirit categories by Age limit vs. Alcohol disorder rate
@@ -65,42 +74,21 @@ An off-premise legal drinking age limit of 18 seems to perform the worst in term
     * The Top and Bottom 5 are grossly disparate in terms of economic status. Is anxiety related to economic environment?
         * Linear Regression of GDP per Capita vs Anxiety disorder. -> more money more problems? Mongolia?
         * Linear Regression of Life Expectancy vs Anxiety disorder. -> increase life expectancy at birth, inreased anxiety disorder rates? Mongolia?
+        * Linear Regressino Urban Pop Ratio vs Anxiety Disorder Rate
         * *TBD Visualisation??*
 4. **Depression**
     * Gender Prevalence in Females. Why so?
         * Pie Chart
         * TBD Visualisation!
 5. **Eating**
+    * Eating Disorders are on the rise from 2010-2017, within our 140 country sample range.
+        * With increase in urbanisation, could this be facilitating increase in Eating Disorder Rates? - Linear Regression Urban Pop Ratio vs Eating (r^2 = 0.5!!!)
     * Why is thare a moderate positive correlation between Eating Disorders rates and Percentage GDP Expenditure on healthcare? could it be with increased facilities or medical personnel comes increased awareness and likelihood of diagnosis?
         * Linear regression HealthExp vs Eating
         * TBD Visualisation!
-
-
-
-
-
-
-## AI Responses
-Higher mental disorder rates in a country can correlate with several factors, including:
-
-1. **Socioeconomic Status**: Poverty, unemployment, and income inequality can increase stress and reduce access to mental health care.
-
-2. **Healthcare Access**: Availability and quality of mental health services influence diagnosis and treatment rates.
-
-3. **Cultural Attitudes**: Stigma surrounding mental health can affect reporting and help-seeking behavior.
-
-4. **Education**: Higher education levels often correlate with better awareness and understanding of mental health issues.
-
-5. **Political Stability**: Countries experiencing conflict or political turmoil tend to have higher rates of mental health disorders.
-
-6. **Substance Abuse**: Higher prevalence of alcohol and drug use can lead to increased mental health issues.
-
-7. **Social Support Systems**: Strong community ties and support networks can mitigate mental health issues.
-
-8. **Urbanization**: Rapid urbanization can lead to stressors related to housing, employment, and social isolation.
-
-9. **Trauma Exposure**: Higher rates of trauma (e.g., violence, natural disasters) can lead to increased mental health disorders.
-
-10. **Genetic and Biological Factors**: Certain populations may have genetic predispositions to mental health disorders.
-
-Each country may experience a unique combination of these factors, influencing its overall mental health landscape.
+6. **Schiz**
+    * Mental Health History?
+    * Schiz vs Age Dependency Ratio????
+7. **Bipolar**
+    * Bipolar Disordrs are on the rise from 2010-2017, within our 140 country sample range.
+        * With increase in urbanisation, coudl this be facilitating increase in Bipolar Disorder Rates? - Linear Regression Urban Pop Ratio vs Bipolar (r^2 = 0.4!!!)
