@@ -25,3 +25,4 @@ https://www.who.int/data/gho/indicator-metadata-registry         https://www.who
 https://data.worldbank.org/indicator?tab=all  
 https://www.kaggle.com/datasets  
 http://www.gapminder.org/data/  
+https://apps.who.int/gho/data/view.main.AVGPRICEBEERv
