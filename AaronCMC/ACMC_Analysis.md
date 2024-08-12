@@ -1,3 +1,67 @@
+# Questions:
+1. **Drugs** 
+    * Drug Use Disorders are on the rise from 2010-2017, within our 140 country sample range.
+    * Given our line graph representing top 5 countries with Drug use disorder rates, why has the US increased in such fashion in contrast to the rest? Are variables that correlate with increased Drug disorder rates that could explain USA's ranking and deterioration in terms of mental health?
+        * Top 5 Line Graph
+        * BoxPlot or Bar Chart for GovB vs Drugs
+    * Search US Drug use articles
+        * NYT API
+2. **Alcohol**
+    * Top 5 countries are all within Eastern Europe, what characteristics do they exhibit that would explain the concentration of high alcohol use disorder rates in this regino of world?
+        * HVPlot of Top 10 and Bottom 10 via GeoApify API (marker intensity by disorder rate)... or just chart for extremes
+        * *TBD Visualisation??*
+    * Does legal drinking age limits have impact on alcohol use disorder rates? All top 5 countries had legal drinking age limits of 18 during 2010-2017 period
+        * Bar chart comparison of Wine, Beer, and Spirit categories by Age limit vs. Alcohol disorder rate
+3. **Anxiety**
+    * The Top and Bottom 5 are grossly disparate in terms of economic status. Is anxiety related to economic environment?
+        * Linear Regression of GDP per Capita vs Anxiety disorder. -> more money more problems? Mongolia?
+        * Linear Regression of Life Expectancy vs Anxiety disorder. -> increase life expectancy at birth, inreased anxiety disorder rates? Mongolia?
+        * Linear Regressino Urban Pop Ratio vs Anxiety Disorder Rate
+        * *TBD Visualisation??*
+4. **Depression**
+    * Gender Prevalence in Females. Why so?
+        * Pie Chart
+        * TBD Visualisation!
+5. **Eating**
+    * Eating Disorders are on the rise from 2010-2017, within our 140 country sample range.
+        * With increase in urbanisation, could this be facilitating increase in Eating Disorder Rates? - Linear Regression Urban Pop Ratio vs Eating (r^2 = 0.5!!!)
+    * Why is thare a moderate positive correlation between Eating Disorders rates and Percentage GDP Expenditure on healthcare? could it be with increased facilities or medical personnel comes increased awareness and likelihood of diagnosis?
+        * Linear regression HealthExp vs Eating
+        * TBD Visualisation!
+6. **Schiz**
+    * Mental Health History?
+    * Schiz vs Age Dependency Ratio????
+7. **Bipolar**
+    * Bipolar Disordrs are on the rise from 2010-2017, within our 140 country sample range.
+        * With increase in urbanisation, coudl this be facilitating increase in Bipolar Disorder Rates? - Linear Regression Urban Pop Ratio vs Bipolar (r^2 = 0.4!!!)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Sorting and Top & Bottom Lines
 **Depression(%)**  
 * Top 5: Lesotho, Morocco, Uganda, Finland, United States  
@@ -56,39 +120,3 @@ An off-premise legal drinking age limit of 18 seems to perform the worst in term
 
 
 
-# Questions:
-1. **Drugs** 
-    * Drug Use Disorders are on the rise from 2010-2017, within our 140 country sample range.
-    * Given our line graph representing top 5 countries with Drug use disorder rates, why has the US increased in such fashion in contrast to the rest? Are variables that correlate with increased Drug disorder rates that could explain USA's ranking and deterioration in terms of mental health?
-        * Top 5 Line Graph
-        * BoxPlot or Bar Chart for GovB vs Drugs
-    * Search US Drug use articles
-        * NYT API
-2. **Alcohol**
-    * Top 5 countries are all within Eastern Europe, what characteristics do they exhibit that would explain the concentration of high alcohol use disorder rates in this regino of world?
-        * HVPlot of Top 10 and Bottom 10 via GeoApify API (marker intensity by disorder rate)... or just chart for extremes
-        * *TBD Visualisation??*
-    * Does legal drinking age limits have impact on alcohol use disorder rates? All top 5 countries had legal drinking age limits of 18 during 2010-2017 period
-        * Bar chart comparison of Wine, Beer, and Spirit categories by Age limit vs. Alcohol disorder rate
-3. **Anxiety**
-    * The Top and Bottom 5 are grossly disparate in terms of economic status. Is anxiety related to economic environment?
-        * Linear Regression of GDP per Capita vs Anxiety disorder. -> more money more problems? Mongolia?
-        * Linear Regression of Life Expectancy vs Anxiety disorder. -> increase life expectancy at birth, inreased anxiety disorder rates? Mongolia?
-        * Linear Regressino Urban Pop Ratio vs Anxiety Disorder Rate
-        * *TBD Visualisation??*
-4. **Depression**
-    * Gender Prevalence in Females. Why so?
-        * Pie Chart
-        * TBD Visualisation!
-5. **Eating**
-    * Eating Disorders are on the rise from 2010-2017, within our 140 country sample range.
-        * With increase in urbanisation, could this be facilitating increase in Eating Disorder Rates? - Linear Regression Urban Pop Ratio vs Eating (r^2 = 0.5!!!)
-    * Why is thare a moderate positive correlation between Eating Disorders rates and Percentage GDP Expenditure on healthcare? could it be with increased facilities or medical personnel comes increased awareness and likelihood of diagnosis?
-        * Linear regression HealthExp vs Eating
-        * TBD Visualisation!
-6. **Schiz**
-    * Mental Health History?
-    * Schiz vs Age Dependency Ratio????
-7. **Bipolar**
-    * Bipolar Disordrs are on the rise from 2010-2017, within our 140 country sample range.
-        * With increase in urbanisation, coudl this be facilitating increase in Bipolar Disorder Rates? - Linear Regression Urban Pop Ratio vs Bipolar (r^2 = 0.4!!!)
