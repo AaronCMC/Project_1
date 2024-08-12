@@ -36,6 +36,7 @@
 
 * Depression
     * OpenWeatherAPI (Avg weather stats like sun exposure -> impact on Depression)?????????  
+    * Depression Gender Prevalence - F: 59.7 vs M: 40.3
 * Anxiety
     * GDP per capita vs Anxiety -> r^2 = 0.4
     * GDP Health Exp vs Anxiety -> r^2 = 0.2
