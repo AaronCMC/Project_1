@@ -1,0 +1,90 @@
+IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period type,Period,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumericPrefix,FactValueNumeric,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,FactComments,Language,DateModified
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AFR,Africa,Country,GMB,Gambia,Year,2014,true,,,,,,,,,,,,,0,,,,,,0.000,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AMR,Americas,Country,HTI,Haiti,Year,2014,true,,,,,,,,,,,,,0,,,,,,0.000,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2014,true,,,,,,,,,,,,,0,,,,,,0.000,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2014,true,,,,,,,,,,,,,0,,,,,,0.000,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EUR,Europe,Country,ROU,Romania,Year,2014,true,,,,,,,,,,,,,0,,,,,,0.000,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AMR,Americas,Country,SUR,Suriname,Year,2014,true,,,,,,,,,,,,,0,,,,,,0.000,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2014,true,,,,,,,,,,,,,0,,,,,,0.000,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AMR,Americas,Country,GTM,Guatemala,Year,2014,true,,,,,,,,,,,,,0.47,,,,,,0.467,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2014,true,,,,,,,,,,,,,0.71,,,,,,0.710,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2014,true,,,,,,,,,,,,,1,,,,,,1.000,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2014,true,,,,,,,,,,,,,1.02,,,,,,1.019,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AFR,Africa,Country,SSD,South Sudan,Year,2014,true,,,,,,,,,,,,,1.3,,,,,,1.295,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2014,true,,,,,,,,,,,,,1.33,,,,,,1.332,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2014,true,,,,,,,,,,,,,1.55,,,,,,1.551,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2014,true,,,,,,,,,,,,,1.64,,,,,,1.642,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2014,true,,,,,,,,,,,,,1.73,,,,,,1.733,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AFR,Africa,Country,MLI,Mali,Year,2014,true,,,,,,,,,,,,,1.93,,,,,,1.934,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2014,true,,,,,,,,,,,,,1.99,,,,,,1.986,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AFR,Africa,Country,MDG,Madagascar,Year,2014,true,,,,,,,,,,,,,10.07,,,,,,10.067,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EUR,Europe,Country,HUN,Hungary,Year,2014,true,,,,,,,,,,,,,1068,,,,,,1067.625,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AFR,Africa,Country,BEN,Benin,Year,2014,true,,,,,,,,,,,,,12.27,,,,,,12.265,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AMR,Americas,Country,SLV,El Salvador,Year,2014,true,,,,,,,,,,,,,12.27,,,,,,12.266,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EUR,Europe,Country,LVA,Latvia,Year,2014,true,,,,,,,,,,,,,121.9,,,,,,121.894,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2014,true,,,,,,,,,,,,,13.81,,,,,,13.808,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AFR,Africa,Country,ZMB,Zambia,Year,2014,true,,,,,,,,,,,,,131.2,,,,,,131.216,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EUR,Europe,Country,GRC,Greece,Year,2014,true,,,,,,,,,,,,,131.8,,,,,,131.762,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AFR,Africa,Country,TGO,Togo,Year,2014,true,,,,,,,,,,,,,14.36,,,,,,14.357,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EUR,Europe,Country,ESP,Spain,Year,2014,true,,,,,,,,,,,,,163.8,,,,,,163.813,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EUR,Europe,Country,CZE,Czechia,Year,2014,true,,,,,,,,,,,,,168.8,,,,,,168.838,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2014,true,,,,,,,,,,,,,17.96,,,,,,17.964,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EUR,Europe,Country,POL,Poland,Year,2014,true,,,,,,,,,,,,,179.3,,,,,,179.338,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AFR,Africa,Country,NAM,Namibia,Year,2014,true,,,,,,,,,,,,,190.4,,,,,,190.376,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,WPR,Western Pacific,Country,TON,Tonga,Year,2014,true,,,,,,,,,,,,,199.5,,,,,,199.461,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AMR,Americas,Country,PER,Peru,Year,2014,true,,,,,,,,,,,,,2.01,,,,,,2.009,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AFR,Africa,Country,NGA,Nigeria,Year,2014,true,,,,,,,,,,,,,2.18,,,,,,2.178,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AFR,Africa,Country,GHA,Ghana,Year,2014,true,,,,,,,,,,,,,2.27,,,,,,2.269,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EUR,Europe,Country,SRB,Serbia,Year,2014,true,,,,,,,,,,,,,201.4,,,,,,201.386,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,WPR,Western Pacific,Country,NZL,New Zealand,Year,2014,true,,,,,,,,,,,,,207.1,,,,,,207.148,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EUR,Europe,Country,ARM,Armenia,Year,2014,true,,,,,,,,,,,,,23.22,,,,,,23.224,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,WPR,Western Pacific,Country,SGP,Singapore,Year,2014,true,,,,,,,,,,,,,23.73,,,,,,23.726,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2014,true,,,,,,,,,,,,,23.91,,,,,,23.911,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2014,true,,,,,,,,,,,,,24.02,,,,,,24.018,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AFR,Africa,Country,SYC,Seychelles,Year,2014,true,,,,,,,,,,,,,251.9,,,,,,251.851,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2014,true,,,,,,,,,,,,,27.18,,,,,,27.181,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2014,true,,,,,,,,,,,,,28.4,,,,,,28.399,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2014,true,,,,,,,,,,,,,299.9,,,,,,299.896,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2014,true,,,,,,,,,,,,,3.13,,,,,,3.132,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AMR,Americas,Country,PRY,Paraguay,Year,2014,true,,,,,,,,,,,,,3.18,,,,,,3.180,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AFR,Africa,Country,GIN,Guinea,Year,2014,true,,,,,,,,,,,,,3.46,,,,,,3.462,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2014,true,,,,,,,,,,,,,3.79,,,,,,3.785,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AMR,Americas,Country,JAM,Jamaica,Year,2014,true,,,,,,,,,,,,,31.69,,,,,,31.692,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2014,true,,,,,,,,,,,,,39.24,,,,,,39.244,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AMR,Americas,Country,PAN,Panama,Year,2014,true,,,,,,,,,,,,,42.13,,,,,,42.129,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2014,true,,,,,,,,,,,,,43.74,,,,,,43.743,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EUR,Europe,Country,ISR,Israel,Year,2014,true,,,,,,,,,,,,,43.79,,,,,,43.786,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EUR,Europe,Country,BEL,Belgium,Year,2014,true,,,,,,,,,,,,,438.1,,,,,,438.139,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EUR,Europe,Country,GEO,Georgia,Year,2014,true,,,,,,,,,,,,,49.6,,,,,,49.597,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2014,true,,,,,,,,,,,,,50.66,,,,,,50.659,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EUR,Europe,Country,HRV,Croatia,Year,2014,true,,,,,,,,,,,,,500,,,,,,500.042,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EUR,Europe,Country,DEU,Germany,Year,2014,true,,,,,,,,,,,,,500.2,,,,,,500.200,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EUR,Europe,Country,LTU,Lithuania,Year,2014,true,,,,,,,,,,,,,501.3,,,,,,501.349,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),Year,2014,true,,,,,,,,,,,,,51.97,,,,,,51.972,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2014,true,,,,,,,,,,,,,560.2,,,,,,560.220,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AMR,Americas,Country,BLZ,Belize,Year,2014,true,,,,,,,,,,,,,57.98,,,,,,57.982,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AMR,Americas,Country,DMA,Dominica,Year,2014,true,,,,,,,,,,,,,579.2,,,,,,579.209,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EUR,Europe,Country,ALB,Albania,Year,2014,true,,,,,,,,,,,,,58.3,,,,,,58.297,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AMR,Americas,Country,CHL,Chile,Year,2014,true,,,,,,,,,,,,,58.63,,,,,,58.629,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AFR,Africa,Country,BWA,Botswana,Year,2014,true,,,,,,,,,,,,,58.82,,,,,,58.815,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AMR,Americas,Country,USA,United States of America,Year,2014,true,,,,,,,,,,,,,59.83,,,,,,59.830,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2014,true,,,,,,,,,,,,,6.25,,,,,,6.246,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,WPR,Western Pacific,Country,WSM,Samoa,Year,2014,true,,,,,,,,,,,,,6.78,,,,,,6.777,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AMR,Americas,Country,BRA,Brazil,Year,2014,true,,,,,,,,,,,,,60.78,,,,,,60.776,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EUR,Europe,Country,FIN,Finland,Year,2014,true,,,,,,,,,,,,,605.8,,,,,,605.769,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,SEAR,South-East Asia,Country,MDV,Maldives,Year,2014,true,,,,,,,,,,,,,62.01,,,,,,62.007,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EUR,Europe,Country,CYP,Cyprus,Year,2014,true,,,,,,,,,,,,,65.13,,,,,,65.131,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2014,true,,,,,,,,,,,,,65.29,,,,,,65.294,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AMR,Americas,Country,CUB,Cuba,Year,2014,true,,,,,,,,,,,,,66.53,,,,,,66.527,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AMR,Americas,Country,GRD,Grenada,Year,2014,true,,,,,,,,,,,,,710.2,,,,,,710.227,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EUR,Europe,Country,EST,Estonia,Year,2014,true,,,,,,,,,,,,,713.1,,,,,,713.057,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2014,true,,,,,,,,,,,,,74.9,,,,,,74.904,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AMR,Americas,Country,BRB,Barbados,Year,2014,true,,,,,,,,,,,,,79,,,,,,79.004,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2014,true,,,,,,,,,,,,,79.38,,,,,,79.376,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2014,true,,,,,,,,,,,,,8.77,,,,,,8.767,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EUR,Europe,Country,SVN,Slovenia,Year,2014,true,,,,,,,,,,,,,84.17,,,,,,84.169,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,AFR,Africa,Country,SEN,Senegal,Year,2014,true,,,,,,,,,,,,,84.55,,,,,,84.547,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EUR,Europe,Country,DNK,Denmark,Year,2014,true,,,,,,,,,,,,,866.1,,,,,,866.089,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2014,true,,,,,,,,,,,,,87.52,,,,,,87.518,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,EUR,Europe,Country,ISL,Iceland,Year,2014,true,,,,,,,,,,,,,878.9,,,,,,878.918,,,EN,2015-07-07T04:00:00.000Z
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",numeric,WPR,Western Pacific,Country,JPN,Japan,Year,2014,true,,,,,,,,,,,,,97.98,,,,,,97.980,,,EN,2015-07-07T04:00:00.000Z
