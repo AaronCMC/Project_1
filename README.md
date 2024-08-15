@@ -6,6 +6,8 @@
 # Demographic and Temporal Factors Influence on the Prevalence of Mental Health Disoders 
 How do demographic factors (such as geographic region, family history, and employment status) and temporal trends (from 2010 to 2017) influence the prevalence and patterns of mental health conditions, including schizophrenia, mood disorders, and drug use disorders?”
 The above was determined via a number of datasets and ultimately, analyzed to show that there were increases and decreases in mental health conditions such as schizophrenia in particular. Factors such as location/region, family history, employment status, drug use disorders and mood disorders were all analyzed to conclude that there is in fact a relationship between demographic and temporal factors and mental health challenges.Various percentages and rates can be seen in the coding for more of an indepth analysis. 
+
+# Suicide Rates Correlation to Mental Health Disorders 
 Project Overview- In this project we have aimed to analyze the relationship between various mental health disorders and suicide rates across different countries from 2010 to 2017 Manroop Kaur Question- How does the prevalence of mental disorders correlate with suicide rates across different countries?
 
 Mental Health and Suicide Rates Analysis (2010-2017) The primary goal is to identify patterns, correlations, and insights that can help in understanding how mental health issues impact suicide rates globally.
